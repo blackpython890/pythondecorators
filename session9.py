@@ -63,8 +63,9 @@ def print_func(func,sec):
         else:
             time.sleep(1)
 
-
+'''
 print_func(add,10)
 print_func(calc_min,6)
 print_func(calc_max,4)
 print(count_dic)
+'''
